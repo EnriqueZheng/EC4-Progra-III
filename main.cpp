@@ -1,11 +1,12 @@
 #include <iostream>
 using namespace std;
 
-#include "static_matrix.h"
+#include "type_list.h"
 
 int main() {
-    StaticMatrix<double,1,1> S1;
-    S1.at(0,0)=7.5;
-    std::cout << S1.determinant(); // 7.5
+    using L = TypeList<int,double,char>;
+    static_assert(L::size==3);
+    using F = typename L::Front;
+    static_assert(std::is_same_v<F,int>);
     return 0;
 }

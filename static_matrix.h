@@ -52,23 +52,28 @@ public:
         return C;
     }
     T determinant() {
-        if (row != col){throw std::invalid_argument("La matriz no es cuadrada");}
-        if (row == 1) return array[0][0];
-        if (row == 2) return array[0][0]*array[1][1] - array[0][1]*array[1][0];
-        T det = T{};
-        for (int j = 0; j < col; ++j) {
-            StaticMatrix<T, row-1, col-1> M;
-            for (int r = 1; r < row; ++r) {
-                int cc = 0;
-                for (int c = 0; c < col; ++c) {
-                    if (c == j) continue;
-                    M.at(r-1, cc++) = array[r][c];
+        static_assert(row == col, "El determinante requiere matriz cuadrada");
+
+        if constexpr (row == 1) {
+            return array[0][0];
+        } else if constexpr (row == 2) {
+            return array[0][0]*array[1][1] - array[0][1]*array[1][0];
+        } else {
+            T det = T{};
+            for (int j = 0; j < col; ++j) {
+                StaticMatrix<T, row-1, col-1> M;
+                for (int r = 1; r < row; ++r) {
+                    int cc = 0;
+                    for (int c = 0; c < col; ++c) {
+                        if (c == j) continue;
+                        M.at(r-1, cc++) = array[r][c];
+                    }
                 }
+                T sign = (j % 2 == 0) ? T{1} : T{-1};
+                det += sign * array[0][j] * M.determinant();
             }
-            T sign = (j % 2 == 0) ? T{1} : T{-1};
-            det += sign * array[0][j] * M.determinant();
+            return det;
         }
-        return det;
     }
 };
 

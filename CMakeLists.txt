@@ -38,12 +38,12 @@ add_executable(${PROJECT_NAME}
         smart_array.cpp
         smart_array.h
         unit.cpp
-        unit.h)
+        unit.h
+        array_wrapper.cpp)
 
 if(UNIX AND NOT APPLE)
     find_package(TBB)
     target_link_libraries(${PROJECT_NAME} TBB::tbb)
 endif()
 
-add_subdirectory(autograder)
 

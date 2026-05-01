@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/Enrique/Desktop/EC4-Progra-III/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target prog3_unit2_template_clases_v2026_01
 
@@ -49,115 +49,93 @@ cmake_ninja_workdir = C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debu
 
 build cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01: phony || .
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/main.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/main.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/main.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/main.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/array_wrapper.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/array_wrapper.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/array_wrapper.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/array_wrapper.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\array_wrapper.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/tuple_printer.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/tuple_printer.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/tuple_printer.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/tuple_printer.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\tuple_printer.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/static_matrix.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/static_matrix.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/static_matrix.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/static_matrix.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\static_matrix.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/type_list.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/type_list.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/type_list.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/type_list.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\type_list.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/serializer.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/serializer.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/serializer.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/serializer.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\serializer.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/fixed_point.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/fixed_point.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/fixed_point.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/fixed_point.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\fixed_point.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/logger.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/logger.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/logger.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/logger.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\logger.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/polynomial.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/polynomial.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/polynomial.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/polynomial.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\polynomial.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/smart_array.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/smart_array.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/smart_array.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/smart_array.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\smart_array.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
-build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/unit.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/unit.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
+build CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/unit.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_unscanned_Debug C$:/Users/Enrique/Desktop/EC4-Progra-III/unit.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01
   CONFIG = Debug
   DEP_FILE = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\unit.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src"
+  INCLUDES = -IC:/Users/Enrique/Desktop/EC4-Progra-III/./include -IC:/Users/Enrique/Desktop/EC4-Progra-III/./src
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   OBJECT_FILE_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
 
 
 # =============================================================================
@@ -174,17 +152,16 @@ build prog3_unit2_template_clases_v2026_01.exe: CXX_EXECUTABLE_LINKER__prog3_uni
   OBJECT_DIR = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\prog3_unit2_template_clases_v2026_01.dir\
   TARGET_FILE = prog3_unit2_template_clases_v2026_01.exe
   TARGET_IMPLIB = libprog3_unit2_template_clases_v2026_01.dll.a
-  TARGET_PDB = prog3_unit2_template_clases_v2026_01.pdb
+  TARGET_PDB = prog3_unit2_template_clases_v2026_01.exe.dbg
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "C:\Users\david\Desktop\Progra III\EC 4\cmake-build-debug" && "C:\Users\david\AppData\Local\Programs\CLion 2025.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\Enrique\Desktop\EC4-Progra-III\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2025.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -195,7 +172,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "C:\Users\david\Desktop\Progra III\EC 4\cmake-build-debug" && "C:\Users\david\AppData\Local\Programs\CLion 2025.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"C:\Users\david\Desktop\Progra III\EC 4" -B"C:\Users\david\Desktop\Progra III\EC 4\cmake-build-debug""
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\Enrique\Desktop\EC4-Progra-III\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2025.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\Enrique\Desktop\EC4-Progra-III -BC:\Users\Enrique\Desktop\EC4-Progra-III\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -203,580 +180,9 @@ build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 # =============================================================================
-# Write statements declared in CMakeLists.txt:
-# C:/Users/david/Desktop/Progra III/EC 4/CMakeLists.txt
-# =============================================================================
-
-# =============================================================================
-# Object build statements for EXECUTABLE target prog3_unit2_template_clases_v2026_01_test
-
-
-#############################################
-# Order-only phony target for prog3_unit2_template_clases_v2026_01_test
-
-build cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test: phony || .
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_1/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_1\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_1\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_1/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_1\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_1\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_1/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_1\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_1\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_1/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_1\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_1\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_10/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_10\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_10\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_10/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_10\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_10\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_10/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_10\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_10\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_10/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_10\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_10\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_2/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_2\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_2\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_2/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_2\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_2\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_2/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_2\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_2\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_2/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_2\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_2\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_3/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_3\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_3\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_3/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_3\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_3\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_3/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_3\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_3\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_3/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_3\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_3\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_4/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_4\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_4\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_4/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_4\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_4\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_4/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_4\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_4\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_4/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_4\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_4\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_5/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_5\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_5\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_5/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_5\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_5\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_5/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_5\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_5\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_5/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_5\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_5\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_6/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_6\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_6\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_6/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_6\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_6\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_6/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_6\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_6\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_6/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_6\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_6\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_7/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_7\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_7\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_7/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_7\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_7\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_7/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_7\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_7\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_7/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_7\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_7\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_8/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_8\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_8\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_8/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_8\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_8\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_8/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_8\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_8\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_8/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_8\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_8\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_9/test_1/test_1.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_1/test_1.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_9\test_1\test_1.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_9\test_1
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_9/test_2/test_2.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_2/test_2.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_9\test_2\test_2.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_9\test_2
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_9/test_3/test_3.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_3/test_3.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_9\test_3\test_3.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_9\test_3
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_9/test_4/test_4.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_4/test_4.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_9\test_4\test_4.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\question_9\test_4
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/test-main.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/test-main.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests\test-main.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\tests
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/array_wrapper.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/array_wrapper.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\array_wrapper.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/tuple_printer.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/tuple_printer.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\tuple_printer.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/static_matrix.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/static_matrix.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\static_matrix.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/type_list.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/type_list.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\type_list.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/serializer.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/serializer.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\serializer.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/fixed_point.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/fixed_point.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\fixed_point.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/logger.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/logger.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\logger.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/polynomial.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/polynomial.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\polynomial.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/smart_array.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/smart_array.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\smart_array.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-build autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/unit.cpp.obj: CXX_COMPILER__prog3_unit2_template_clases_v2026_01_test_unscanned_Debug C$:/Users/david/Desktop/Progra$ III/EC$ 4/unit.cpp || cmake_object_order_depends_target_prog3_unit2_template_clases_v2026_01_test
-  CONFIG = Debug
-  DEP_FILE = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__\unit.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always   -O3 -O3
-  INCLUDES = -I"C:/Users/david/Desktop/Progra III/EC 4/./include" -I"C:/Users/david/Desktop/Progra III/EC 4/./src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/." -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/tests" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../src" -I"C:/Users/david/Desktop/Progra III/EC 4/autograder/../tools/catch"
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  OBJECT_FILE_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\__
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target prog3_unit2_template_clases_v2026_01_test
-
-
-#############################################
-# Link the executable autograder\prog3_unit2_template_clases_v2026_01_test.exe
-
-build autograder/prog3_unit2_template_clases_v2026_01_test.exe: CXX_EXECUTABLE_LINKER__prog3_unit2_template_clases_v2026_01_test_Debug autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_1/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_1/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_1/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_1/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_10/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_10/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_10/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_10/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_2/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_2/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_2/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_2/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_3/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_3/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_3/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_3/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_4/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_4/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_4/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_4/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_5/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_5/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_5/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_5/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_6/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_6/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_6/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_6/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_7/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_7/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_7/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_7/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_8/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_8/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_8/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_8/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_9/test_1/test_1.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_9/test_2/test_2.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_9/test_3/test_3.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/question_9/test_4/test_4.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/tests/test-main.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/array_wrapper.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/tuple_printer.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/static_matrix.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/type_list.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/serializer.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/fixed_point.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/logger.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/polynomial.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/smart_array.cpp.obj autograder/CMakeFiles/prog3_unit2_template_clases_v2026_01_test.dir/__/unit.cpp.obj
-  CONFIG = Debug
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = autograder\CMakeFiles\prog3_unit2_template_clases_v2026_01_test.dir\
-  TARGET_FILE = autograder\prog3_unit2_template_clases_v2026_01_test.exe
-  TARGET_IMPLIB = autograder\libprog3_unit2_template_clases_v2026_01_test.dll.a
-  TARGET_PDB = autograder\prog3_unit2_template_clases_v2026_01_test.pdb
-
-
-#############################################
-# Utility command for edit_cache
-
-build autograder/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "C:\Users\david\Desktop\Progra III\EC 4\cmake-build-debug\autograder" && "C:\Users\david\AppData\Local\Programs\CLion 2025.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
-  DESC = No interactive CMake dialog available...
-  restat = 1
-
-build autograder/edit_cache: phony autograder/CMakeFiles/edit_cache.util
-
-
-#############################################
-# Utility command for rebuild_cache
-
-build autograder/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "C:\Users\david\Desktop\Progra III\EC 4\cmake-build-debug\autograder" && "C:\Users\david\AppData\Local\Programs\CLion 2025.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"C:\Users\david\Desktop\Progra III\EC 4" -B"C:\Users\david\Desktop\Progra III\EC 4\cmake-build-debug""
-  DESC = Running CMake to regenerate build system...
-  pool = console
-  restat = 1
-
-build autograder/rebuild_cache: phony autograder/CMakeFiles/rebuild_cache.util
-
-# =============================================================================
 # Target aliases.
 
 build prog3_unit2_template_clases_v2026_01: phony prog3_unit2_template_clases_v2026_01.exe
-
-build prog3_unit2_template_clases_v2026_01_test: phony autograder/prog3_unit2_template_clases_v2026_01_test.exe
-
-build prog3_unit2_template_clases_v2026_01_test.exe: phony autograder/prog3_unit2_template_clases_v2026_01_test.exe
 
 # =============================================================================
 # Folder targets.
@@ -784,16 +190,9 @@ build prog3_unit2_template_clases_v2026_01_test.exe: phony autograder/prog3_unit
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/david/Desktop/Progra III/EC 4/cmake-build-debug
+# Folder: C:/Users/Enrique/Desktop/EC4-Progra-III/cmake-build-debug
 
-build all: phony prog3_unit2_template_clases_v2026_01.exe autograder/all
-
-# =============================================================================
-
-#############################################
-# Folder: C:/Users/david/Desktop/Progra III/EC 4/cmake-build-debug/autograder
-
-build autograder/all: phony autograder/prog3_unit2_template_clases_v2026_01_test.exe
+build all: phony prog3_unit2_template_clases_v2026_01.exe
 
 # =============================================================================
 # Built-in targets
@@ -802,13 +201,13 @@ build autograder/all: phony autograder/prog3_unit2_template_clases_v2026_01_test
 #############################################
 # Phony target to force glob verification run.
 
-build C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake_force: phony
+build C$:/Users/Enrique/Desktop/EC4-Progra-III/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake_force: phony
 
 
 #############################################
 # Re-run CMake to check if globbed directories changed.
 
-build C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/CMakeFiles/cmake.verify_globs: VERIFY_GLOBS | C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake_force
+build C$:/Users/Enrique/Desktop/EC4-Progra-III/cmake-build-debug/CMakeFiles/cmake.verify_globs: VERIFY_GLOBS | C$:/Users/Enrique/Desktop/EC4-Progra-III/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake_force
   pool = console
   restat = 1
 
@@ -816,14 +215,14 @@ build C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/CMakeFiles/cma
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/cmake_install.cmake C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/autograder/cmake_install.cmake: RERUN_CMAKE C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/CMakeFiles/cmake.verify_globs | C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCCompilerABI.c C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCXXCompiler.cmake.in C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCXXInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCompilerIdDetection.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeFindBinUtils.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeGenericSystem.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeRCCompiler.cmake.in C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeRCInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystem.cmake.in C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeTestCompilerCommon.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeTestRCCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-C.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-CXX-CXXImportStd.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeInspectCLinker.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeInspectCXXLinker.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/FeatureTesting.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU-C.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-C.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-Initialize.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-windres.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/WindowsPaths.cmake C$:/Users/david/Desktop/Progra$ III/EC$ 4/CMakeLists.txt C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/CMakeLists.txt C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_1/question_10_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_2/question_10_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_3/question_10_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_4/question_10_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_1/question_1_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_2/question_1_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_3/question_1_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_4/question_1_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_1/question_2_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_2/question_2_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_3/question_2_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_4/question_2_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_1/question_3_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_2/question_3_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_3/question_3_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_4/question_3_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_1/question_4_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_2/question_4_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_3/question_4_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_4/question_4_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_1/question_5_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_2/question_5_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_3/question_5_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_4/question_5_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_1/question_6_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_2/question_6_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_3/question_6_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_4/question_6_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_1/question_7_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_2/question_7_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_3/question_7_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_4/question_7_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_1/question_8_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_2/question_8_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_3/question_8_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_4/question_8_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_1/question_9_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_2/question_9_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_3/question_9_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_4/question_9_test_4.in CMakeCache.txt CMakeFiles/4.0.2/CMakeCCompiler.cmake CMakeFiles/4.0.2/CMakeCXXCompiler.cmake CMakeFiles/4.0.2/CMakeRCCompiler.cmake CMakeFiles/4.0.2/CMakeSystem.cmake
+build build.ninja C$:/Users/Enrique/Desktop/EC4-Progra-III/cmake-build-debug/cmake_install.cmake: RERUN_CMAKE C$:/Users/Enrique/Desktop/EC4-Progra-III/cmake-build-debug/CMakeFiles/cmake.verify_globs | C$:/Users/Enrique/Desktop/EC4-Progra-III/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/WindowsPaths.cmake C$:/Users/Enrique/Desktop/EC4-Progra-III/CMakeLists.txt CMakeCache.txt CMakeFiles/4.0.2/CMakeCCompiler.cmake CMakeFiles/4.0.2/CMakeCXXCompiler.cmake CMakeFiles/4.0.2/CMakeRCCompiler.cmake CMakeFiles/4.0.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/david/Desktop/Progra$ III/EC$ 4/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCCompilerABI.c C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCXXCompiler.cmake.in C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCXXInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCompilerIdDetection.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeFindBinUtils.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeGenericSystem.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeRCCompiler.cmake.in C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeRCInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystem.cmake.in C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeTestCompilerCommon.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeTestRCCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-C.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-CXX-CXXImportStd.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeInspectCLinker.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeInspectCXXLinker.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/FeatureTesting.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU-C.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-C.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-Initialize.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-windres.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows.cmake C$:/Users/david/AppData/Local/Programs/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/WindowsPaths.cmake C$:/Users/david/Desktop/Progra$ III/EC$ 4/CMakeLists.txt C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/CMakeLists.txt C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_1/question_10_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_2/question_10_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_3/question_10_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_10/test_4/question_10_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_1/question_1_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_2/question_1_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_3/question_1_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_1/test_4/question_1_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_1/question_2_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_2/question_2_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_3/question_2_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_2/test_4/question_2_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_1/question_3_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_2/question_3_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_3/question_3_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_3/test_4/question_3_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_1/question_4_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_2/question_4_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_3/question_4_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_4/test_4/question_4_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_1/question_5_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_2/question_5_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_3/question_5_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_5/test_4/question_5_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_1/question_6_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_2/question_6_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_3/question_6_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_6/test_4/question_6_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_1/question_7_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_2/question_7_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_3/question_7_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_7/test_4/question_7_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_1/question_8_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_2/question_8_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_3/question_8_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_8/test_4/question_8_test_4.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_1/question_9_test_1.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_2/question_9_test_2.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_3/question_9_test_3.in C$:/Users/david/Desktop/Progra$ III/EC$ 4/autograder/tests/question_9/test_4/question_9_test_4.in CMakeCache.txt CMakeFiles/4.0.2/CMakeCCompiler.cmake CMakeFiles/4.0.2/CMakeCXXCompiler.cmake CMakeFiles/4.0.2/CMakeRCCompiler.cmake CMakeFiles/4.0.2/CMakeSystem.cmake: phony
+build C$:/Users/Enrique/Desktop/EC4-Progra-III/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Linker/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2025.2/bin/cmake/win/x64/share/cmake-4.0/Modules/Platform/WindowsPaths.cmake C$:/Users/Enrique/Desktop/EC4-Progra-III/CMakeLists.txt CMakeCache.txt CMakeFiles/4.0.2/CMakeCCompiler.cmake CMakeFiles/4.0.2/CMakeCXXCompiler.cmake CMakeFiles/4.0.2/CMakeRCCompiler.cmake CMakeFiles/4.0.2/CMakeSystem.cmake: phony
 
 
 #############################################
