@@ -1,0 +1,35 @@
+# ninja log v6
+34	79	7993725408663789	C:/Users/david/Desktop/Progra III/EC4-Progra-III/cmake-build-debug/CMakeFiles/cmake.verify_globs	95e218b3dec94d08
+110	512	7993725409414096	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/type_list.cpp.obj	7b3b20657b075c51
+103	1307	7993725409343083	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/static_matrix.cpp.obj	75d3a48f6622de01
+88	1363	7993725409193056	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/array_wrapper.cpp.obj	45cf80a99dcb4e
+513	1372	7993725413449255	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/fixed_point.cpp.obj	f72071b1d816293
+1309	1493	7993725421399349	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/logger.cpp.obj	b7dfb042c8981cab
+96	1538	7993725409273075	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/tuple_printer.cpp.obj	54d97195b0057fe5
+1372	1571	7993725422038255	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/smart_array.cpp.obj	33fca32bd375a04c
+1364	1577	7993725421948039	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/polynomial.cpp.obj	b0228566e7594b3a
+117	1621	7993725409485677	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/serializer.cpp.obj	aacfe3ea549dd412
+1493	1631	7993725423247124	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/unit.cpp.obj	fea95e9f4b39a734
+80	1665	7993725409112964	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/main.cpp.obj	61c174f514f23355
+1666	2126	7993725424975530	prog3_unit2_template_clases_v2026_01.exe	3c2c72dd077111ab
+22	65	7993726294352113	C:/Users/david/Desktop/Progra III/EC4-Progra-III/cmake-build-debug/CMakeFiles/cmake.verify_globs	95e218b3dec94d08
+72	2216	7993726294852191	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/main.cpp.obj	61c174f514f23355
+2217	2433	7993726316298908	prog3_unit2_template_clases_v2026_01.exe	3c2c72dd077111ab
+9	35	7993734838809449	C:/Users/david/Desktop/Progra III/EC4-Progra-III/cmake-build-debug/CMakeFiles/cmake.verify_globs	95e218b3dec94d08
+49	658	7993734839214846	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/logger.cpp.obj	b7dfb042c8981cab
+42	776	7993734839134500	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/main.cpp.obj	61c174f514f23355
+776	929	7993734846478480	prog3_unit2_template_clases_v2026_01.exe	3c2c72dd077111ab
+5	32	7993734940390286	C:/Users/david/Desktop/Progra III/EC4-Progra-III/cmake-build-debug/CMakeFiles/cmake.verify_globs	95e218b3dec94d08
+36	693	7993734940704202	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/main.cpp.obj	61c174f514f23355
+693	824	7993734947270864	prog3_unit2_template_clases_v2026_01.exe	3c2c72dd077111ab
+6	33	7993735052401638	C:/Users/david/Desktop/Progra III/EC4-Progra-III/cmake-build-debug/CMakeFiles/cmake.verify_globs	95e218b3dec94d08
+39	675	7993735052734128	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/main.cpp.obj	61c174f514f23355
+676	815	7993735059094858	prog3_unit2_template_clases_v2026_01.exe	3c2c72dd077111ab
+5	32	7993736336207095	C:/Users/david/Desktop/Progra III/EC4-Progra-III/cmake-build-debug/CMakeFiles/cmake.verify_globs	95e218b3dec94d08
+40	581	7993736336552120	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/logger.cpp.obj	b7dfb042c8981cab
+35	614	7993736336497968	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/main.cpp.obj	61c174f514f23355
+614	745	7993736342287105	prog3_unit2_template_clases_v2026_01.exe	3c2c72dd077111ab
+5	31	7993747223971148	C:/Users/david/Desktop/Progra III/EC4-Progra-III/cmake-build-debug/CMakeFiles/cmake.verify_globs	95e218b3dec94d08
+41	168	7993747224335979	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/polynomial.cpp.obj	b0228566e7594b3a
+35	600	7993747224270246	CMakeFiles/prog3_unit2_template_clases_v2026_01.dir/main.cpp.obj	61c174f514f23355
+601	725	7993747229920973	prog3_unit2_template_clases_v2026_01.exe	3c2c72dd077111ab
