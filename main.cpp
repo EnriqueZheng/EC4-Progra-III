@@ -1,12 +1,9 @@
 #include <iostream>
+#include "polynomial.h"
 using namespace std;
 
-#include "type_list.h"
-
 int main() {
-    using L = TypeList<int,double,char>;
-    static_assert(L::size==3);
-    using F = typename L::Front;
-    static_assert(std::is_same_v<F,int>);
+    Polynomial<1,2,3> P;
+    std::cout << P.evaluate(2); // 17
     return 0;
 }
